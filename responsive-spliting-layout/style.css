@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.partition{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.partition button{
+    cursor: pointer;
+    padding: 8px 20px;
+}
+
